@@ -1,0 +1,44 @@
+ClassId,SignName
+0,Ogranicenje brzine (20km/h)
+1,Ogranicenje brzine (30km/h)
+2,Ogranicenje brzine (50km/h)
+3,Ogranicenje brzine (60km/h)
+4,Ogranicenje brzine (70km/h)
+5,Ogranicenje brzine (80km/h)
+6,Prestanak ogranicenja brzine(80km/h)
+7,Ogranicenje brzine (100km/h)
+8,Ogranicenje brzine (120km/h)
+9,Zabrana pretjecanja
+10,Zabrana pretjecanja za teretna vozila
+11,Raskrizje sa sporednom cestom
+12,Cesta s prednoscu prolaza
+13,Raskrizje s cestom s prednoscu prolaza
+14,Obavezno zaustavljanje
+15,Zabrana prometa u oba smjera
+16,Zabrana prometa za teretna vozila
+17,Zabrana prometa u jednom smjeru
+18,Opasnost na cesti
+19,Opasan zavoj u lijevo
+20,Opasan zavoj u desno
+21,Opasan dvostruki zavoj
+22,Neravan kolnik
+23,Sklizak kolnik
+24,Suzenje kolnika s desne strane
+25,Radovi na cesti
+26,Nailazak na prometna svjetla
+27,Pjesaci na cesti
+28,Djeca na cesti
+29,Biciklisti na cesti
+30,Poledica
+31,Divljac na cesti
+32,Prestanak svih zabrana
+33,Obavezno skretanje u desno
+34,Obavezno skretanje u lijevo
+35,Obavezan smjer ravno
+36,Dopusteni smjerovi ravno i desno
+37,Dopusteni smjerovi ravno i lijevo
+38,Obavezno obilazenje s desna
+39,Obavezno obilazenje s lijeva
+40,Kruzni tok prometa
+41,Prestanak zabrane pretjecanja
+42,Prestanak zabrane pretjecanja za teretna vozila
